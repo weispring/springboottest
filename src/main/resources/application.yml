@@ -8,9 +8,9 @@ app:
     username: root
     name: demo-chun
     port: 3306
-    password: KLHTJZxEEdam3bf+QI8MWT5GwbsUtSkZJ76rtOFl8i8a4xw6M/GXk0iCy+W8loFd0tyjbzyRLINo9wtujXWz1w==
+    password: KLHTJZxEEdam3
     druid:
-      public-key: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALK1VN+B85BXf7NLy0otwG3iDaD7UTs/P1X9UGHfEik2vqQWknWmdwMS3woGUUN+yC0QxsghZLAWaheYq61KLQUCAwEAAQ==
+      public-key: MFwwDQYJKoZIhv
 
 
 spring:
